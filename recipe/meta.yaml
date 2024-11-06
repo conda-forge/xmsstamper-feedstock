@@ -1,4 +1,4 @@
-{% set version = "3.0.5" %}
+{% set version = "3.1.2" %}
 
 package:
   name: xmsstamper
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/Aquaveo/xmsstamper/archive/{{ version }}.tar.gz
-  sha256: b20c1452e3e5d065f88ec5c340e2a714fafe3201b8d51cfd7faeb67a1f49b561
+  sha256: 3e9fdb7f3066fcfa7b0e1c440039b736a7cfa5c8c4466486d361b34ea0c79420
 
 build:
   number: 0
